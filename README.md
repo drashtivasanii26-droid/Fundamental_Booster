@@ -65,7 +65,7 @@ Your birth year is approximately: 2003 (based on your age of 20 )
 
 Thank you for using the Personal Data Collector. Goodbye!
 
-Note: Memory addresses are system-dependent and can be different each time the program runs.
+
 
 👩‍💻 Author
 
