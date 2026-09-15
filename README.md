@@ -72,6 +72,6 @@ Thank you for using the Personal Data Collector. Goodbye!
 ```
 
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Drashti Vasani
