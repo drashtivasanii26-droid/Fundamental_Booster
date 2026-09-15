@@ -38,7 +38,7 @@ print("Favourite Number:", favourite_number,
 
 print()
 
-birth_year = 2023 - age
+birth_year = 2026 - age
 
 print("Your birth year is approximately:", birth_year,
       "(based on your age of", age, ")")

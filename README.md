@@ -65,7 +65,7 @@ Age: 20
 Height: 12.8
 Favorite Number: 12
 
-Your birth year is approximately: 2003 (based on your age of 20 )
+Your birth year is approximately: 2006 (based on your age of 20 )
 
 Thank you for using the Personal Data Collector. Goodbye!
 
