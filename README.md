@@ -1,7 +1,9 @@
 # 📊 Interactive Personal Data Collector
 
-## **Author:** Drashti Vasani
-## **Course/Project:** Python Practical Assignment
+**Author:** Drashti Vasani
+**Course/Project:** Python Practical Assignment
+
+---
 
 A Python-based console application designed to collect user input, handle different data types (`str`, `int`, `float`), inspect object metadata using `type()` and `id()`, and perform a basic arithmetic calculation.
 
