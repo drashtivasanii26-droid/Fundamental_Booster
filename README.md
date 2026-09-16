@@ -1,6 +1,6 @@
 # 📊 Interactive Personal Data Collector
 
-**Author:** Drashti Vasani
+* **Author:** Drashti Vasani
 * **Course/Project:** Python Practical Assignment
 
 ---
